@@ -1,2 +1,7 @@
 Wpis poczatkowy
+<<<<<<< HEAD
 Modyfikacja studentaB
+=======
+modyfikacja studenta A 
+>>>>>>> eea55057d0818aa015f53c060f82d451a79e09fd
+Wspolny tekst studenta B
